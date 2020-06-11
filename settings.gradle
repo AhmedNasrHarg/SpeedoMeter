@@ -1,0 +1,2 @@
+rootProject.name='SpeedoMeter'
+include ':app'
